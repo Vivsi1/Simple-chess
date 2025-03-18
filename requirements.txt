@@ -1,3 +1,2 @@
 tkinter
 python-chess
-g
